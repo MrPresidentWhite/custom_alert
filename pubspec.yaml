@@ -1,7 +1,7 @@
 name: custom_alert
 description: A new Flutter project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/MrPresidentWhite/custom_alert.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
@@ -19,4 +19,4 @@ dev_dependencies:
 
 flutter:
   assets:
-    - assets/images
+    - assets/images/
