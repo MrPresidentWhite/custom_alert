@@ -19,4 +19,18 @@ dev_dependencies:
 
 flutter:
   assets:
-    - assets/images/
+    - assets/images/2.0x/close.png
+    - assets/images/2.0x/icon_error.png
+    - assets/images/2.0x/icon_info.png
+    - assets/images/2.0x/icon_success.png
+    - assets/images/2.0x/icon_warning.png
+    - assets/images/3.0x/close.png
+    - assets/images/3.0x/icon_error.png
+    - assets/images/3.0x/icon_info.png
+    - assets/images/3.0x/icon_success.png
+    - assets/images/3.0x/icon_warning.png
+    - assets/images/close.png
+    - assets/images/icon_error.png
+    - assets/images/icon_info.png
+    - assets/images/icon_success.png
+    - assets/images/icon_warning.png
